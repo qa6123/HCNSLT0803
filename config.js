@@ -1,8 +1,8 @@
-const nameGirl = 'Chị em CX 🥳 ';
+const nameGirl = 'Chị em HCNS LT🥳';
 const giftUrl = '';
 const eventName = 'Chúc Mừng 08-03';
-const titleCard = 'Tặng chị em CX Team';
-const contentCard = 'Nhân ngày 08-03 🎉Chúc chị em team chúng mình thật xinh đẹp, rạng rỡ và hạnh phúc nha💓';
+const titleCard = 'Tặng chị em HCNS LT';
+const contentCard = 'Nhân ngày 08-03 🎉Chúc toàn thể chị em thật xinh đẹp, rạng rỡ và thật hạnh phúc nha💓';
 
 // phần dưới dành c ho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
